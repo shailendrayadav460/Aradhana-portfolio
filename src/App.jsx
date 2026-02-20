@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import aradhnaImg from "./assets/aradhnaimg.jpeg";
+import aradhnaImg from "./assets/ard2img.jpeg";
 
 
 /* ─────────────────────────── DATA FROM RESUME ─────────────────────────── */
